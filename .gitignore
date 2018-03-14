@@ -1,9 +1,11 @@
 # Dataset
 dataset/
 
-#VS code
+# VS code
 .vscode/
 
+# Config file
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
